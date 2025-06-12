@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Jashele! 👋 I’m a passionate problem-solver who thrives on leveraging my skills to elevate and refine online experiences. My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
 
+<br><br>
+
 
 
 ## 💻 Latest Project

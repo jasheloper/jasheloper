@@ -1,5 +1,7 @@
 # 💫 Building with Passion, Learning for Life
 
+Profile currently under construction. This will be up soon! 🙂
+
 <!--
 **jasheloper/jasheloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Hi, I'm Jashele! 👋 I’m a passionate problem-solver who thrives on leveraging my skills to elevate and refine online experiences. My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
 
@@ -68,3 +70,5 @@ From time to time, I share some of my favorite software tools that I use via my 
 I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
 
 [[View Article]](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)
+
+->

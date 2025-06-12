@@ -53,7 +53,7 @@ Scribe is a handy AI tool for quickly creating documentation and step-by-step gu
 
 My passion for technical content creation & storytelling has led to amazing opportunities to collaborate with the following companies.
 
-
+<br>
 
 ![ScreenPal](/images/screenpal-1.png)
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Building with Passion, Learning for Life
 
 <!--
 **jasheloper/jasheloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a passionate problem-solver who thrives on leveraging my skills to elevate and refine online experiences. My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
+

@@ -25,7 +25,8 @@ Hi, I'm Jashele! 👋 I’m a passionate problem-solver who thrives on leveragin
 
 **Technologies:** HTML, Tailwind CSS
 
-![Alt text](/images/portfolio-project-preview.png)
+![Portfolio project preview](/images/portfolio-project-preview.png)
+
 
 
 
@@ -39,3 +40,26 @@ I enjoy creating tech videos to share my career journey and connect with others 
 Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works.
 
 [![Watch the latest video](/images/scribe.png)](https://youtu.be/no2xIVDLD8Q)
+
+
+
+
+## 💛 Contributions
+
+My passion for technical content creation & storytelling has led to amazing opportunities to collaborate with the following companies.
+
+
+
+![ScreenPal](/images/screenpal.png)
+
+From time to time, I share some of my favorite software tools that I use via my YouTube tech channel. ScreenPal is one that I use to create all my screen recordings and GIFs. The ScreenPal team found my video and invited me to write a blog post to share more about how I use this tool in my everyday life.
+
+[[View Article]](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
+
+
+
+![Onymos](/images/onymos.png)
+
+I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
+
+[[View Article]](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)

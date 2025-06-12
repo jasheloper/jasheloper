@@ -55,7 +55,7 @@ My passion for technical content creation & storytelling has led to amazing oppo
 
 
 
-![ScreenPal](/images/screenpal.png)
+![ScreenPal](/images/screenpal-1.png)
 
 From time to time, I share some of my favorite software tools that I use via my YouTube tech channel. ScreenPal is one that I use to create all my screen recordings and GIFs. The ScreenPal team found my video and invited me to write a blog post to share more about how I use this tool in my everyday life.
 
@@ -63,7 +63,7 @@ From time to time, I share some of my favorite software tools that I use via my 
 
 <br>
 
-![Onymos](/images/onymos.png)
+![Onymos](/images/onymos-1.png)
 
 I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
 

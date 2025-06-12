@@ -28,6 +28,8 @@ Hi, I'm Jashele! 👋 I’m a passionate problem-solver who thrives on leveragin
 ![Portfolio project preview](/images/portfolio-project-preview.png)
 
 
+<br><br>
+
 
 
 ## 🎥 Tech Content
@@ -42,6 +44,7 @@ Scribe is a handy AI tool for quickly creating documentation and step-by-step gu
 [![Watch the latest video](/images/scribe.png)](https://youtu.be/no2xIVDLD8Q)
 
 
+<br><br>
 
 
 ## 💛 Contributions
@@ -56,7 +59,7 @@ From time to time, I share some of my favorite software tools that I use via my 
 
 [[View Article]](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
 
-
+<br>
 
 ![Onymos](/images/onymos.png)
 

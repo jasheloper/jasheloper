@@ -27,7 +27,10 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Technologies & CMS:**
 
-![HTML5](/images/html5.png)
+<img src="/images/html5.png" alt="HTML5" width="48" height="48">
+
+
+<!-- ![HTML5](/images/html5.png) -->
 ![CSS3](/images/css3.png)
 ![Tailwind CSS](/images/tailwind-css.png)
 ![JavaScript](/images/javascript.png)

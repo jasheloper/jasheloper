@@ -10,7 +10,7 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 [Instagram](https://www.instagram.com/jasheloper/) &bull;
 [Twitter/X](https://x.com/jasheloper)
 
-
+<br>
 
 ## Overview of Skills
 

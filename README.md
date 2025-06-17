@@ -4,7 +4,7 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 
 **Connect with me:**
 
-[![Alt text](/images/linkedin.png)](target-url)
+[![Alt text](/images/linkedin.png)](https://www.linkedin.com/in/jashelet/)
 
 
 

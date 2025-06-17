@@ -4,7 +4,9 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 
 **Connect with me:**
 
-[![Alt text](/images/linkedin.png)](https://www.linkedin.com/in/jashelet/)
+[![Alt text](/images/jashele_linkedin.png)](https://www.linkedin.com/in/jashelet/) [![Alt text](/images/jashele_github.png)](https://github.com/jasheloper) [![Alt text](/images/jashele_youtube.png)]([/images/jashele_youtube.png](https://www.youtube.com/jashelet)) [![Alt text](/images/jashele_x.png)](https://x.com/jasheloper)
+
+ 
 
 
 

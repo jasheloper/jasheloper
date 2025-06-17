@@ -45,8 +45,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Tools & Software:**
 
-![GitHub](/images/jashele_github.png)
 ![Command Line Interface](/images/command-line.png)
+![Git](/images/git.png)
+![GitHub](/images/jashele_github.png)
 ![VS Code](/images/vscode.png)
 ![Jira](/images/jira.png)
 ![Adobe](/images/adobe.png)

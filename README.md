@@ -50,8 +50,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 ![Latest Project - Portfolio Website](/images/latest-project.png)
 
-**About:** 
-My personal portfolio website to showcase my technical work and career journey. It highlights my skills, projects, and professional story with a clean, modern design. It features social media–inspired touches like an online status and status update header.
+**About:** My personal portfolio website to showcase my technical work and career journey. It highlights my skills, projects, and professional story with a clean, modern design. It features social media–inspired touches like an online status and status update header.
 
 **Technologies:** HTML, Tailwind CSS
 

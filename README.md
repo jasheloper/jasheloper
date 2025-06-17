@@ -74,11 +74,10 @@ I enjoy [creating tech videos](URL) to share my career journey and connect with 
 
 ![Scribe Video Preview](/images/scribe-preview.png)
 
-**Scribe - AI Tool for Documentation**
+**Scribe - AI Tool for Documentation | [Watch on YouTube](URL)**
 
 Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
 
-**Video Link:** [Watch on YouTube](URL)
 
 
 

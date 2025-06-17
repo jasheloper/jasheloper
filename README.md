@@ -4,22 +4,36 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 
 **Connect with me:**
 
-[![Alt text](/images/jashele_linkedin.png)](https://www.linkedin.com/in/jashelet/) [![Alt text](/images/jashele_github.png)](https://github.com/jasheloper) [![Alt text](/images/jashele_youtube.png)]([/images/jashele_youtube.png](https://www.youtube.com/jashelet)) [![Alt text](/images/jashele_on_x.png)](https://x.com/jasheloper)
+[![Alt text](/images/jashele_linkedin.png)](https://www.linkedin.com/in/jashelet/) 
+[![Alt text](/images/jashele_github.png)](https://github.com/jasheloper) 
+[![Alt text](/images/jashele_youtube.png)]([/images/jashele_youtube.png](https://www.youtube.com/jashelet)) 
+[![Alt text](/images/jashele_instagram.png)](https://www.instagram.com/jasheloper/) 
+[![Alt text](/images/jashele_on_x.png)](https://x.com/jasheloper)
 
- 
 
 
 
-<!--
 ## Overview of Skills
 
 Over the past 5 years, I have actively worked with and gained professional experience in the following web technologies & tools:
 
+![Alt text](/images/html5.png)
+![Alt text](/images/css3.png)
+![Alt text](/images/javascript.png)
+![Alt text](/images/magento.png)
+![Alt text](/images/drupal.png)
+![Alt text](/images/wordpress.png)
+<!--
+![Alt text](/images
+
+
+<!--
 icons:
 
 *HTML5 | CSS3 | Tailwind CSS | JavaScript  | Magento | Drupal | WordPress | GitHub | Command Line Interface | NGINX | DNS | SSL | Jira | Photoshop*
 
 
+<!--
 ## Latest Project 
 
 *image*

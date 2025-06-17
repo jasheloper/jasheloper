@@ -27,7 +27,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Technologies & CMS:**
 
-<img src="/images/html5.png" alt="HTML5" width="48" height="48">
+<picture>
+  <img alt="Image Alt Text" src="/images/html5.png">
+</picture>
 
 
 <!-- ![HTML5](/images/html5.png) -->

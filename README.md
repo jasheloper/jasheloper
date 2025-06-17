@@ -23,21 +23,37 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 
 ## Overview of Skills
 
-Over the past 5 years, I have actively worked with and gained professional experience in the following web technologies & tools:
+Over the past 5 years, I have worked with and gained professional experience in a variety of web technologies & tools, including:
 
-![Alt text](/images/html5.png)
-![Alt text](/images/css3.png)
-![Alt text](/images/javascript.png)
-![Alt text](/images/magento.png)
-![Alt text](/images/drupal.png)
-![Alt text](/images/wordpress.png)
-![Alt text](/images/jashele_github.png)
-![Alt text](/images/command-line.png)
-![Alt text](/images/nginx.png)
-![Alt text](/images/dns.png)
-![Alt text](/images/ssl-icon.png)
-![Alt text](/images/jira.png)
-![Alt text](/images/adobe.png)
+**Technologies & CMS:**
+
+![HTML5](/images/html5.png)
+![CSS3](/images/css3.png)
+![Tailwind CSS](/images/tailwind-css.png)
+![JavaScript](/images/javascript.png)
+![Magento](/images/magento.png)
+![Drupal](/images/drupal.png)
+![WordPress](/images/wordpress.png)
+
+
+**Web Infrastructure:**
+
+![NGINX](/images/nginx.png)
+![DNS](/images/dns.png)
+![SSL](/images/ssl-icon.png)
+
+
+**Tools & Software:**
+
+![GitHub](/images/jashele_github.png)
+![Command Line Interface](/images/command-line.png)
+![VS Code](/images/vscode.png)
+![Jira](/images/jira.png)
+![Adobe](/images/adobe.png)
+
+
+
+
 <!--
 ![Alt text](/images
 

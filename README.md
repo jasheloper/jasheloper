@@ -27,12 +27,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Technologies & CMS:**
 
-<picture>
-  <img alt="Image Alt Text" src="/images/html5.png">
-</picture>
-
-
-<!-- ![HTML5](/images/html5.png) -->
+![HTML5](/images/html5.png)
 ![CSS3](/images/css3.png)
 ![Tailwind CSS](/images/tailwind-css.png)
 ![JavaScript](/images/javascript.png)

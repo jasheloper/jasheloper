@@ -57,7 +57,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Technologies:** HTML, Tailwind CSS
 
-**Learn More:** [See Project Repo](URL)
+**Site URL:** [devjashele.tech](https://devjashele.tech/)
+
+**Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
 
 
 <!--

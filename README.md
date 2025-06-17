@@ -44,7 +44,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 ![Adobe](/images/adobe.png)
 
 
-
+<br><br>
 
 ## Latest Project 
 

@@ -60,10 +60,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 **Learn More:** 
 [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
 
-
-
-
-
+<br>
 
 
 ## Community & More

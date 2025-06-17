@@ -63,38 +63,49 @@ Over the past 5 years, I have worked with and gained professional experience in 
 <br>
 
 
-## Community & More
+## Tech Content
 
-
-### Tech Videos 
-I enjoy [creating tech videos](URL) to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
+I enjoy [creating tech videos](https://www.youtube.com/jashelet) to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
 
 
 **Featured Video:** 
 
 ![Scribe Video Preview](/images/scribe-preview.png)
 
-**Scribe - AI Tool for Documentation | [Watch on YouTube](URL)**
+**Scribe - AI Tool for Documentation | [Watch on YouTube](https://youtu.be/no2xIVDLD8Q)**
 
 Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
 
+<br>
 
 
 
-
-
-
-<!--
-### Contributions
+## Contributions
 My passion for technical content creation & storytelling has led to amazing opportunities to collaborate with the following companies.
 
-**ScreenPal** : [View Article](URL)
+<br>
 
-From time to time, I share some of my favorite software tools that I use via my YouTube tech channel. ScreenPal is one that I use to create all my screen recordings and GIFs. The ScreenPal team [found my video](URL) and invited me to write a blog post to share more about how I use this tool in my everyday life.
 
-**Onymos** : [View Article](URL)
+![ScreenPal Preview](/images/screenpal.png)
 
-I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
+**Company:** ScreenPal
+
+**Link:** [View Article](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
+
+**About:** From time to time, I share some of my favorite software tools that I use via my YouTube tech channel. 
+ScreenPal is one that I use to create all my screen recordings and GIFs. The ScreenPal team [found my video](https://youtu.be/FI14qIK7rgo) and invited me to write a blog post to share more about how I use this tool in my everyday life.
+
+<br>
+
+
+![Onymos](/images/onymos.png)
+
+**Company:** Onymos
+
+**Link:** [View Article](URL)
+
+**About:** I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
+
 
 
 

@@ -73,11 +73,13 @@ Over the past 5 years, I have worked with and gained professional experience in 
 I enjoy [creating tech videos](URL) to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
 
 
-**Featured Video:** Scribe - AI Tool for Documentation
+**Featured Video:** 
 
 ![Scribe Video Preview](/images/scribe-preview.png)
 
-**About:** Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
+**Scribe - AI Tool for Documentation**
+
+Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
 
 **Video Link:** [Watch on YouTube](URL)
 

@@ -35,7 +35,7 @@ Over the past 5 years, I have actively worked with and gained professional exper
 ![Alt text](/images/command-line.png)
 ![Alt text](/images/nginx.png)
 ![Alt text](/images/dns.png)
-![Alt text](/images/ssl.png)
+![Alt text](/images/ssl-icon.png)
 ![Alt text](/images/jira.png)
 ![Alt text](/images/adobe.png)
 <!--

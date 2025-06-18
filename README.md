@@ -55,16 +55,15 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 [![Latest Project - Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
 
+**Portfolio Website**
 
 **About:** My personal portfolio website to showcase my technical work and career journey. It highlights my skills, projects, and professional story with a clean, modern design. It features social media–inspired elements like an online status and status update header.
 
 **Technologies:** HTML, Tailwind CSS
 
-**Site URL:** 
-[devjashele.tech](https://devjashele.tech/)
+**Site URL:**  [devjashele.tech](https://devjashele.tech/)
 
-**Learn More:** 
-[See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
+**Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
 
 <br>
 

@@ -102,7 +102,7 @@ ScreenPal is one that I use to create all my screen recordings and GIFs. The Scr
 
 **Company:** Onymos
 
-**Link:** [View Article](URL)
+**Link:** [View Article](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)
 
 **About:** I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
 
@@ -122,5 +122,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-

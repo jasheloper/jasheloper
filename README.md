@@ -6,7 +6,6 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 **Connect with me:**
 
 [LinkedIn](https://www.linkedin.com/in/jashelet/) &bull;
-[GitHub](https://github.com/jasheloper) &bull;
 [YouTube](https://www.youtube.com/jashelet) &bull;
 [Instagram](https://www.instagram.com/jasheloper/) &bull;
 [Twitter/X](https://x.com/jasheloper)

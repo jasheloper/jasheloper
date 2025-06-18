@@ -34,9 +34,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 **Web Infrastructure:**
 
-![NGINX](/images/nginx.png)
 ![DNS](/images/dns.png)
 ![SSL](/images/ssl-icon.png)
+![NGINX](/images/nginx.png)
 
 
 **Tools & Software:**

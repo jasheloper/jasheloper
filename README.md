@@ -12,7 +12,7 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 
 <br>
 
-## Overview of Skills
+## 💼 Overview of Skills
 
 Over the past 5 years, I have worked with and gained professional experience in a variety of web technologies & tools, including:
 
@@ -46,7 +46,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 <br>
 
-## Latest Project 
+## 🧩 Latest Project 
 
 [![Latest Project - Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
 
@@ -64,7 +64,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 <br>
 
 
-## Tech Content
+## 🎥 Tech Content
 
 I enjoy [creating tech videos](https://www.youtube.com/jashelet) to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
 
@@ -82,7 +82,7 @@ Scribe is a handy AI tool for quickly creating documentation and step-by-step gu
 
 
 
-## Contributions
+## ❤️ Contributions
 My passion for technical content creation & storytelling has led to amazing opportunities to collaborate with the following companies.
 
 <br>

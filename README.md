@@ -5,7 +5,7 @@ I’m a passionate problem-solver who thrives on leveraging my skills to elevate
 My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
 
 <br>
-  
+
 **Connect with me:**
 
 [LinkedIn](https://www.linkedin.com/in/jashelet/) &bull;
@@ -18,7 +18,9 @@ My approach is rooted in curiosity, creativity, and a drive to make a positive i
 
 ## 💼 Overview of Skills
 
-Over the past 5 years, I have worked with and gained professional experience in a variety of web technologies & tools, including:
+I’m committed to learning new things to improve my skills and discover new approaches to solving problems. Over the past 5 years, I have worked with and gained professional experience in a variety of web technologies & tools, including:
+
+<br>
 
 **Technologies & CMS:**
 

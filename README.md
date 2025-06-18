@@ -27,8 +27,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 ![Tailwind CSS](/images/tailwind-css.png)
 ![JavaScript](/images/javascript.png)
 ![Magento](/images/magento.png)
-![Drupal](/images/drupal.png)
 ![WordPress](/images/wordpress.png)
+![Drupal](/images/drupal.png)
+
 
 
 **Web Infrastructure:**

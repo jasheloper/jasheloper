@@ -46,7 +46,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 ![GitHub](/images/jashele_github.png)
 ![VS Code](/images/vscode.png)
 ![Jira](/images/jira.png)
-![Adobe](/images/adobe.png)
+![Adobe Photoshop](/images/photoshop.png)
 
 
 <br>

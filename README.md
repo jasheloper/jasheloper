@@ -48,7 +48,8 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 ## Latest Project 
 
-[![Latest Project - Portfolio Website](/images/latest-project.png)]([link_url](https://devjashele.tech/))
+[![Latest Project - Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
+
 
 **About:** My personal portfolio website to showcase my technical work and career journey. It highlights my skills, projects, and professional story with a clean, modern design. It features social media–inspired touches like an online status and status update header.
 
@@ -70,7 +71,8 @@ I enjoy [creating tech videos](https://www.youtube.com/jashelet) to share my car
 
 **Featured Video:** 
 
-[![Scribe Video Preview](/images/scribe-preview.png)]([link_url](https://youtu.be/no2xIVDLD8Q))
+[![Scribe Video Preview](/images/scribe-preview.png)](https://youtu.be/no2xIVDLD8Q)
+
 
 **Scribe - AI Tool for Documentation | [Watch on YouTube](https://youtu.be/no2xIVDLD8Q)**
 

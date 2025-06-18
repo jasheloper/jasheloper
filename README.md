@@ -1,10 +1,7 @@
 # 💫 Building with Passion, Learning for Life
 
-I’m a passionate problem-solver who thrives on leveraging my skills to elevate and refine online experiences. Whether it’s solving technical issues or transforming concepts into digital realities, I find immense joy and purpose in my work.
+I’m a passionate problem-solver who thrives on leveraging my skills to elevate and refine online experiences. Whether it’s solving technical issues or transforming concepts into digital realities, I find immense joy and purpose in my work. My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
 
-My approach is rooted in curiosity, creativity, and a drive to make a positive impact through technology.
-
-<br>
 
 **Connect with me:**
 

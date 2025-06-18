@@ -88,7 +88,7 @@ My passion for technical content creation & storytelling has led to amazing oppo
 <br>
 
 
-![ScreenPal Preview](/images/screenpal.png)
+[![ScreenPal Preview](/images/screenpal.png)](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
 
 **Company:** ScreenPal
 
@@ -100,7 +100,7 @@ ScreenPal is one that I use to create all my screen recordings and GIFs. The Scr
 <br>
 
 
-![Onymos](/images/onymos.png)
+[![Onymos](/images/onymos.png)](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)
 
 **Company:** Onymos
 

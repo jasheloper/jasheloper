@@ -71,17 +71,18 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 ## 🎥 Tech Content
 
-I enjoy [creating tech videos](https://www.youtube.com/jashelet) to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
+I enjoy creating tech videos to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
 
 
-**Featured Video:** 
+**Featured Video:** Scribe - AI Tool for Documentation
 
 [![Scribe Video Preview](/images/scribe-preview.png)](https://youtu.be/no2xIVDLD8Q)
 
+**About:** Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
 
-**Scribe - AI Tool for Documentation | [Watch on YouTube](https://youtu.be/no2xIVDLD8Q)**
+**Link:** [Watch on YouTube](https://youtu.be/no2xIVDLD8Q)
 
-Scribe is a handy AI tool for quickly creating documentation and step-by-step guides. In this video, I show a simple demo of how this tool works. 
+
 
 <br>
 

@@ -98,10 +98,10 @@ My passion for technical content creation & storytelling has led to amazing oppo
 
 **Company:** ScreenPal
 
-**Link:** [View Article](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
-
 **About:** From time to time, I share some of my favorite software tools that I use via my YouTube tech channel. 
 ScreenPal is one that I use to create all my screen recordings and GIFs. The ScreenPal team [found my video](https://youtu.be/FI14qIK7rgo) and invited me to write a blog post to share more about how I use this tool in my everyday life.
+
+**Link:** [View Article](https://screenpal.com/blog/screenpal-for-remote-work-and-content-creation)
 
 <br>
 
@@ -110,9 +110,9 @@ ScreenPal is one that I use to create all my screen recordings and GIFs. The Scr
 
 **Company:** Onymos
 
-**Link:** [View Article](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)
-
 **About:** I previously wrote a blog post where I shared some HTML code nuggets that I find very useful. The team at Onymos really liked the post and invited me as a guest blogger.
+
+**Link:** [View Article](https://onymos.com/blog/mdn-code-nuggets-5-piece-meal/)
 
 
 

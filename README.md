@@ -51,7 +51,9 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 <br>
 
-## 🧩 Latest Projects
+## 🧩 Work Samples
+
+Recent web development projects that I've worked on.
 
 
 [![Portfolio Website](/images/project-portfolio.png)](https://devjashele.tech/)

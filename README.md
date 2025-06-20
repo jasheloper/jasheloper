@@ -108,7 +108,7 @@ Recent web development projects that I've worked on.
 ## 🎥 Tech Content
 
 I enjoy creating tech videos to share my career journey and connect with others in the tech industry, which has now grown to a community of 3,400+ subscribers.
-
+<br><br>
 
 **Featured Video:** 
 

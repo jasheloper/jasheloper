@@ -54,12 +54,29 @@ Over the past 5 years, I have worked with and gained professional experience in 
 ## 🧩 Latest Projects
 
 
-[![Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
+[![Portfolio Website](/images/portfolio.png)](https://devjashele.tech/)
 
 **Portfolio Website:** My personal website to showcase my technical work and career journey.
 
-**Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
+**Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/)
 
+<br>
+
+**Silly Story Generator:** An interactive web app that dynamically generates a custom silly story.
+
+**Learn More:** [See Project Repo](https://github.com/jasheloper/silly-story-js)
+
+<br>
+
+**JavaScript Image Gallery:** An interactive image gallery designed with a thumbnail-based image switcher.
+
+**Learn More:** [See Project Repo](https://github.com/jasheloper/img-gallery-js-2)
+
+<br>
+
+**Color Tile Playground:** An interactive web app that showcases a layout of tiles that generate random colors.
+
+**Learn More:** [See Project Repo](https://github.com/jasheloper/color-tile-playground)
 
 
 <!--

@@ -64,7 +64,7 @@ Recent web development projects that I've worked on.
 
 <br>
 
-[![Silly Story Generator](/images/silly-story-preview.png)](https://devjashele.tech/)
+[![Silly Story Generator](/images/silly-story-preview.png)](https://jasheloper.github.io/silly-story-js/)
 
 **Silly Story Generator:** An interactive web app that dynamically generates a custom silly story.
 
@@ -72,7 +72,7 @@ Recent web development projects that I've worked on.
 
 <br>
 
-[![JavaScript Image Gallery](/images/image-gallery.png)](https://devjashele.tech/)
+[![JavaScript Image Gallery](/images/image-gallery.png)](https://jasheloper.github.io/img-gallery-js-2/)
 
 **JavaScript Image Gallery:** An interactive image gallery designed with a thumbnail-based image switcher.
 
@@ -80,7 +80,7 @@ Recent web development projects that I've worked on.
 
 <br>
 
-[![Color Tile Playground](/images/color-tiles.png)](https://devjashele.tech/)
+[![Color Tile Playground](/images/color-tiles.png)](https://jasheloper.github.io/color-tile-playground/)
 
 **Color Tile Playground:** An interactive web app that showcases a layout of tiles that generate random colors.
 

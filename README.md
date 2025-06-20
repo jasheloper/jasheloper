@@ -51,9 +51,20 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 <br>
 
-## 🧩 Latest Project 
+## 🧩 Latest Projects
 
-[![Latest Project - Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
+
+[![Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
+
+**Portfolio Website:** My personal website to showcase my technical work and career journey.
+
+**Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
+
+
+
+<!--
+
+[![Portfolio Website](/images/latest-project.png)](https://devjashele.tech/)
 
 **Portfolio Website**
 
@@ -64,6 +75,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 **Site URL:**  [devjashele.tech](https://devjashele.tech/)
 
 **Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/tree/main)
+-->
 
 <br>
 

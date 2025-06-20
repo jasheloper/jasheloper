@@ -54,7 +54,7 @@ Over the past 5 years, I have worked with and gained professional experience in 
 ## 🧩 Latest Projects
 
 
-[![Portfolio Website](/images/portfolio.png)](https://devjashele.tech/)
+[![Portfolio Website](/images/project-portfolio.png)](https://devjashele.tech/)
 
 **Portfolio Website:** My personal website to showcase my technical work and career journey.
 

@@ -62,17 +62,23 @@ Over the past 5 years, I have worked with and gained professional experience in 
 
 <br>
 
+[![Silly Story Generator](/images/silly-story-preview.png)](https://devjashele.tech/)
+
 **Silly Story Generator:** An interactive web app that dynamically generates a custom silly story.
 
 **💡 Learn More:** [See Project Repo](https://github.com/jasheloper/silly-story-js)
 
 <br>
 
+[![JavaScript Image Gallery](/images/image-gallery.png)](https://devjashele.tech/)
+
 **JavaScript Image Gallery:** An interactive image gallery designed with a thumbnail-based image switcher.
 
 **💡 Learn More:** [See Project Repo](https://github.com/jasheloper/img-gallery-js-2)
 
 <br>
+
+[![Color Tile Playground](/images/color-tiles.png)](https://devjashele.tech/)
 
 **Color Tile Playground:** An interactive web app that showcases a layout of tiles that generate random colors.
 

@@ -59,7 +59,7 @@ Recent web development projects that I've worked on.
 
 [![Portfolio Website](/images/project-portfolio.png)](https://devjashele.tech/)
 
-**Portfolio Website:** My personal website to showcase my technical work and career journey.
+**Portfolio Site:** My personal website to showcase my technical work and career journey.
 
 **💡 Learn More:** [See Project Repo](https://github.com/jasheloper/portfolio/)
 
